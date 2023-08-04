@@ -1,0 +1,22 @@
+{
+    "name": "mvcli",
+    "version": "1.0.0",
+    "description": "vue + vite脚手架",
+    "main": "index.js",
+    "bin": {
+        "mvcli": "./bin/cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "moneyinto",
+    "license": "ISC",
+    "keywords": [
+        "mvcli"
+    ],
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "commander": "^11.0.0",
+        "ora": "^5.4.1"
+    }
+}
