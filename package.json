@@ -1,5 +1,5 @@
 {
-    "name": "mvcli",
+    "name": "@moneyinto/mvcli",
     "version": "1.0.0",
     "description": "vue + vite + elementPlus管理后台的脚手架",
     "main": "index.js",
