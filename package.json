@@ -1,7 +1,7 @@
 {
     "name": "mvcli",
     "version": "1.0.0",
-    "description": "vue + vite脚手架",
+    "description": "vue + vite + elementPlus管理后台的脚手架",
     "main": "index.js",
     "bin": {
         "mvcli": "./bin/cli.js"
@@ -11,6 +11,8 @@
     },
     "author": "moneyinto",
     "license": "ISC",
+    "repository": "git@github.com:moneyinto/mvCli.git",
+    "homepage": "git@github.com:moneyinto/mvCli.git",
     "keywords": [
         "mvcli"
     ],

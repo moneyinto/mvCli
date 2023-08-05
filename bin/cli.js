@@ -10,7 +10,6 @@ program
     .description("create a new project")
     .action((name, option) => {
         // 打印结果，输出用户手动输入的项目名字
-        console.log("name:", name, "option:", option);
         create(name, option);
     });
 
